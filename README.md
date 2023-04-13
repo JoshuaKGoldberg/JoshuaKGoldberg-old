@@ -22,7 +22,7 @@ Because I'm independent, I rely on sponsors to fund my work.
 They deserve our sincere appreciation and gratitude.
 
 <table width="100%">
-	<thead>
+	<thead id="testing-id">
 		<tr>
 			<th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
 			<th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
